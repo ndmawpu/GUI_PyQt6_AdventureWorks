@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>ic-next.png</file>
+    <file>ic-previous.png</file>
+    <file>ic-adventureworks.png</file>
+    <file>ic-home.png</file>
+    <file>ic-login.png</file>
+  </qresource>
+  <qresource prefix="background">
+    <file>bg.jpg</file>
+  </qresource>
+</RCC>
